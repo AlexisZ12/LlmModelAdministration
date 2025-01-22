@@ -1,5 +1,8 @@
 # 使用教程
 
+## 0. 下载数据库
+下载地址：https://www.elastic.co/downloads/past-releases/elasticsearch-8-15-0
+
 ## 1. 解压数据库
 解压elasticsearch-8.15.0-windows-x86_64.zip到当前位置
 
