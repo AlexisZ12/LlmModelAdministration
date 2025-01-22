@@ -6,12 +6,12 @@
 ## 1. 解压数据库
 解压elasticsearch-8.15.0-windows-x86_64.zip到当前位置
 
-![pic1](.\pic\pic1.png)
+![pic1](pic/pic1.png)
 
 ## 2. 修改数据库参数
 编辑文件：elasticsearch-8.15.0\config\elasticsearch.yml
 
-![pic2](.\pic\pic2.png)
+![pic2](pic/pic2.png)
 
 按照以下模板更改参数，将四个含enabled的设置后的true改为false
 
