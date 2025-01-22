@@ -1,0 +1,7 @@
+{
+    "KEY":"",
+    "BASE":"",
+    "ESURL":"http://localhost:9200",
+    "INDEX":"model",
+    "PATH": "log"
+}
